@@ -31,7 +31,7 @@ body {
 }
 
 .quiz h2 {
-    font-size: 18px;
+    font-size: 20px;
     color: #001e4d;
     font-weight: 600;
 }
@@ -47,7 +47,7 @@ body {
     text-align: left;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 18px;
     transition: all 0.3s;
 }
 
@@ -70,7 +70,7 @@ body {
     border-radius: 4px;
     cursor: pointer;
     display: none;
-    font-size: 16px;
+    font-size: 18px;
 
 }
 
