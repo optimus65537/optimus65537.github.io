@@ -1,0 +1,22 @@
+[
+    {
+        "question" : "Which is the largest animal in the world?",
+        "answers" : ["Shark", "Blue whale", "Elephant", "Giraffe"],
+        "correct" : "Blue whale"
+    },
+    {
+        "question" : "Which is the smallest country in the world?",
+        "answers": ["Vatican City", "Bhutan", "Nepal", "Shri Lanka"],
+        "correct" : "Vatican City"
+    },
+    {
+        "question" : "Which is the largest desert in the world?",
+        "answers" : ["Kalahari", "Gobi", "Sahara", "Antarctica"],
+        "correct" : "Antarctica"
+    },
+    {
+        "question" : "Which is the smallest continent in the world?",
+        "answers" : ["Asia", "Australia", "Arctic", "Africa"],
+        "correct" : "Australia"
+    }
+]
