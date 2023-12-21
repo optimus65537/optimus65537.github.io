@@ -58,7 +58,7 @@ function selectAnswer(e){
 
 function resetState(){
     nextButton.style.display = "none";
-    nextButton.innerHTML = "Next";
+    nextButton.innerHTML = "Nächste Frage";
     while(answerButton.firstChild){
         answerButton.removeChild(answerButton.firstChild);
     }
@@ -66,7 +66,7 @@ function resetState(){
 
 function showScore() {
     questionElement.innerHTML = `You scored ${score} out of ${qLength}!`
-    nextButton.innerHTML = "Play Again";
+    nextButton.innerHTML = "Erneut versuchen";
     nextButton.style.display = "block";
     score = 0;
     currentQuestionIndex = -1;
