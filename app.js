@@ -65,7 +65,7 @@ function resetState(){
 }
 
 function showScore() {
-    questionElement.innerHTML = `You scored ${score} out of ${qLength}!`
+    questionElement.innerHTML = `Du hast ${score} von ${qLength} erreicht!`
     nextButton.innerHTML = "Erneut versuchen";
     nextButton.style.display = "block";
     score = 0;
