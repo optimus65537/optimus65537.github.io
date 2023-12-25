@@ -86,8 +86,8 @@
     },
     {
         "question" : "Wie unterscheidet man zwischen Austauschleistungen und Ersatzleistungen.",
-        "answers" : ["Bei Ersatzleistungen erbringt der Emfänger auch eine Leistung gegenüber dem Staat", "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat", "Austauschleistungen sind keine öffentliche Geldleistungen", "Eine Differenzierung ist irrelevant"],
-        "correct" : "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat"
+        "answers" : ["Bei Ersatzleistungen erbringt der Empfänger auch eine Leistung gegenüber dem Staat", "Bei Ersatzleistungen erbringt der Empfänger selbst keine Leistung an den Staat", "Austauschleistungen sind keine öffentliche Geldleistungen", "Eine Differenzierung ist irrelevant"],
+        "correct" : "Bei Ersatzleistungen erbringt der Empfänger selbst keine Leistung an den Staat"
     },
     {
         "question" : "Was kann der Geschädigte geltend machen, wenn die Immissionen eines öffentlichen Werks unvermeidbar sind?",
