@@ -1,13 +1,13 @@
 [
     {
-        "question" : "In wie vielen Grundarten können öffentliche Geldleistungen unterteilt werden?",
-        "answers" : ["6", "2", "4", "5"],
-        "correct" : "4"
-    },
-    {
         "question" : "Finanzielle Sozialhilfeleistungen sehen keine Gegenleistung des Empfängers voraus?",
         "answers": ["Wahr", "Falsch"],
         "correct" : "Wahr"
+    },
+    {
+        "question" : "In wie vielen Grundarten können öffentliche Geldleistungen unterteilt werden?",
+        "answers" : ["6", "2", "4", "5"],
+        "correct" : "4"
     },
     {
         "question" : "Um welche Art von öffentlicher Geldleistung handelt es sich, wenn der Staat 100 Computer erwirbt und dafür den Kaufpreis bezahlt?",
@@ -20,7 +20,7 @@
         "correct" : "Falsch"
     },
     {
-        "question" : "Eine Enteignungsentschädigung ist eine:",
+        "question" : "Eine Enteignungsentschädigung ist auch eine:",
         "answers" : ["Ersatzleistung", "Verhaltenssteureung", "Subvention", "Sozialhilfe"],
         "correct" : "Ersatzleistung"
     },
@@ -55,7 +55,7 @@
         "correct" : "Einen Rechtserwerb, um eine staatliche Aufgabe erfüllen zu können"
     },
     {
-        "question" : "Wie viele Voraussetzugngen müssen kumulativ erfüllt sein, um bei der Enteigung von Nachbarrechten, eine Entschädigungspflicht auszulösen?",
+        "question" : "Wie viele Voraussetzungen müssen kumulativ erfüllt sein, um bei der Enteigung von Nachbarrechten, eine Entschädigungspflicht auszulösen?",
         "answers" : ["2", "5", "4", "3"],
         "correct" : "3"
     },
@@ -70,7 +70,7 @@
         "correct" : "Falsch"
     },
     {
-        "question" : "Wie unterscheidet man u.a. zwischen Fördersubvention und Abgeltungssubventionen?",
+        "question" : "Wie unterscheidet man u.a. zwischen Fördersubventionen und Abgeltungssubventionen?",
         "answers" : ["Abgeltungssubventionen wirken verhaltenslenkend", "Fördersubventionen können i.d.R. rechtlich beansprucht werden", "Abgeltungssubventionen bemessen sich nach den ungedeckten Kosten", "Es gibt kein Unterschied"],
         "correct" : "Abgeltungssubventionen bemessen sich nach den ungedeckten Kosten"
     },
@@ -86,7 +86,7 @@
     },
     {
         "question" : "Wie unterscheidet man zwischen Austauschleistungen und Ersatzleistungen.",
-        "answers" : ["Bei der Ersatzleistung erbringt der Emfänger auch eine Leistung gegenüber dem Staat", "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat", "Austauschleistungen sind keine öffentliche Geldleistungen", "Eine Differenzierung ist irrelevant"],
+        "answers" : ["Bei Ersatzleistungen erbringt der Emfänger auch eine Leistung gegenüber dem Staat", "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat", "Austauschleistungen sind keine öffentliche Geldleistungen", "Eine Differenzierung ist irrelevant"],
         "correct" : "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
-        "answers" : ["(i) Verwaltungsrechtsschutz ist Primärschutz, (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden, (iii) Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden.", "(i) Verwaltungsrechtsschutz ist Primärschutz, (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden, (iii) Versäumte Rechtshandlungen, dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden.", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
-        "correct" : "Falsch"
+        "answers" : ["(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden", "(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
+        "correct" : "(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden"
     }
 ]
