@@ -1,22 +1,112 @@
 [
     {
-        "question" : "Which is the largest animal in the world?",
-        "answers" : ["Shark", "Blue whale", "Elephant", "Giraffe"],
-        "correct" : "Blue whale"
+        "question" : "In wie vielen Grundarten können öffentliche Geldleistungen unterteilt werden?",
+        "answers" : ["6", "2", "4", "5"],
+        "correct" : "4"
     },
     {
-        "question" : "Which is the smallest country in the world?",
-        "answers": ["Vatican City", "Bhutan", "Nepal", "Shri Lanka"],
-        "correct" : "Vatican City"
+        "question" : "Finanzielle Sozialhilfeleistungen sehen keine Gegenleistung des Empfängers voraus?",
+        "answers": ["Wahr", "Falsch"],
+        "correct" : "Wahr"
     },
     {
-        "question" : "Which is the largest desert in the world?",
-        "answers" : ["Kalahari", "Gobi", "Sahara", "Antarctica"],
-        "correct" : "Antarctica"
+        "question" : "Um welche Art von öffentlicher Geldleistung handelt es sich, wenn der Staat 100 Computer erwirbt und dafür den Kaufpreis bezahlt?",
+        "answers" : ["Subvention", "Austauschleistung", "Naturallast", "Betrag"],
+        "correct" : "Austauschleistung"
     },
     {
-        "question" : "Which is the smallest continent in the world?",
-        "answers" : ["Asia", "Australia", "Arctic", "Africa"],
-        "correct" : "Australia"
+        "question" : "Öffentliche Geldleistungen stützen sich auf Zivilrecht",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Eine Enteignungsentschädigung ist eine:",
+        "answers" : ["Ersatzleistung", "Verhaltenssteureung", "Subvention", "Sozialhilfe"],
+        "correct" : "Ersatzleistung"
+    },
+    {
+        "question" : "Bei der formellen Enteignung kann der Enteigner die Entschädigung auch später (nach der Enteignung) leisten?",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Polizeilich motivierte Eigentumsbeschränkungen sind grundsätzlich Entschädigungslos?",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Die materielle Enteignung ist:",
+        "answers" : ["Nicht entschädigungspflichtig", "Eine entschädigungspflichtige öffenrechtliche Eigentumsbeschränkung", "Eine Realleistung", "Ein Entzug des Vermögensrechts"],
+        "correct" : "Eine entschädigungspflichtige öffenrechtliche Eigentumsbeschränkung"
+    },
+    {
+        "question" : "Die Enteignungsentschädigung bildet bei der materiellen Enteignung Folge des Eingriffs?",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Was ist gegenstand der fromellen Enteignung?",
+        "answers" : ["Die Einschränkung des bisherigen Gebrauchs einer Sache", "Ein Sonderopfer", "Der Entzug des Vermögensrechts + eine Übertragung an den Enteigner", "Eine Dienstbarkeit"],
+        "correct" : "Der Entzug des Vermögensrechts + eine Übertragung an den Enteigner"
+    },
+    {
+        "question" : "Was bezweckt die fromelle Enteignung?",
+        "answers" : ["Einen Rechtserwerb, um eine staatliche Aufgabe erfüllen zu können", "Keine besondere Intensität", "Art. 26 BV", "Die Einschränkung des künftigen Gebrauchs einer Sache"],
+        "correct" : "Einen Rechtserwerb, um eine staatliche Aufgabe erfüllen zu können"
+    },
+    {
+        "question" : "Wie viele Voraussetzugngen müssen kumulativ erfüllt sein, um bei der Enteigung von Nachbarrechten, eine Entschädigungspflicht auszulösen?",
+        "answers" : ["2", "5", "4", "3"],
+        "correct" : "3"
+    },
+    {
+        "question" : "Subventionen sind:",
+        "answers" : ["Unterstützungsleistungen zur Sicherstellung öffentlicher Zwecke", "Öffentliche Leistungen kraft Privatrechts", "Austauschleistungen", "Ersatzleistungen"],
+        "correct" : "Unterstützungsleistungen zur Sicherstellung öffentlicher Zwecke"
+    },
+    {
+        "question" : "Mit der Subvention erwirbt der Staat eine konkrete, individualisierte Leistung bzw. eine unmittelbare Gegenleistung, um eine ihm obliegende Aufgabe zu erfüllen.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Wie unterscheidet man u.a. zwischen Fördersubvention und Abgeltungssubventionen?",
+        "answers" : ["Abgeltungssubventionen wirken verhaltenslenkend", "Fördersubventionen können i.d.R. rechtlich beansprucht werden", "Abgeltungssubventionen bemessen sich nach den ungedeckten Kosten", "Es gibt kein Unterschied"],
+        "correct" : "Abgeltungssubventionen bemessen sich nach den ungedeckten Kosten"
+    },
+    {
+        "question" : "Um welche öffentliche Geldleistung handelt es sich, wenn die Geldzahlung und die Leistung vom Empfänger nicht äquivalent ist?",
+        "answers" : ["Ersatzleistung", "Subvention", "Austauschleistung", "Finanzielle Sozialhilfeleitung"],
+        "correct" : "Subvention"
+    },
+    {
+        "question" : "Austauschleitungen bezwecken den Ausgleich finanzieller Nachteile.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Wie unterscheidet man zwischen Austauschleistungen und Ersatzleistungen.",
+        "answers" : ["Bei der Ersatzleistung erbringt der Emfänger auch eine Leistung gegenüber dem Staat", "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat", "Austauschleistungen sind keine öffentliche Geldleistungen", "Eine Differenzierung ist irrelevant"],
+        "correct" : "Bei Ersatzleistungen erbringt der Emfänger selbst keine Leistung an den Staat"
+    },
+    {
+        "question" : "Was kann der Geschädigte geltend machen, wenn die Immissionen eines öffentlichen Werks unvermeidbar sind?",
+        "answers" : ["Die Beseitigung der Schädigung", "Er hat keine Ansprüche mehr", "Die formelle Enteignung seiner nachbarrechtlichen Abwehransprüche", "Irrelevant da Immissionen aus öffentlichen Werke immer vermeidbar sind"],
+        "correct" : "Die formelle Enteignung seiner nachbarrechtlichen Abwehransprüche"
+    },
+    {
+        "question" : "Bei öffentlichrechtlichen Eigentumsbeschränkungen ist die Intensität der Einschränkung irrelevant.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Die Staatshaftung stellt Primärrechtschutz dar.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
+        "answers" : ["(i) Verwaltungsrechtsschutz ist Primärschutz, (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden, (iii) Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden.", "(i) Verwaltungsrechtsschutz ist Primärschutz, (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden, (iii) Versäumte Rechtshandlungen, dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden.", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
+        "correct" : "Falsch"
     }
 ]
