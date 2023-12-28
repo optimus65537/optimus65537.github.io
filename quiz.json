@@ -36,8 +36,8 @@
     },
     {
         "question" : "Die materielle Enteignung ist:",
-        "answers" : ["Nicht entschädigungspflichtig", "Eine entschädigungspflichtige öffenrechtliche Eigentumsbeschränkung", "Eine Realleistung", "Ein Entzug des Vermögensrechts"],
-        "correct" : "Eine entschädigungspflichtige öffenrechtliche Eigentumsbeschränkung"
+        "answers" : ["Nicht entschädigungspflichtig", "Eine entschädigungspflichtige öffentlichrechtliche Eigentumsbeschränkung", "Eine Realleistung", "Ein Entzug des Vermögensrechts"],
+        "correct" : "Eine entschädigungspflichtige öffentlichrechtliche Eigentumsbeschränkung"
     },
     {
         "question" : "Die Enteignungsentschädigung bildet bei der materiellen Enteignung Folge des Eingriffs?",
