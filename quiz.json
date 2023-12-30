@@ -108,5 +108,11 @@
         "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
         "answers" : ["(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden", "(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
         "correct" : "(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden"
+    },
+    {
+        "question" : "Die öffentliche Sache ist ein sachliches Mittel, welches das Gemeinwesen zur Erfüllung seiner Aufgaben braucht. Der Staat besitzt bei öffentlichen Sachen über die Verfügungsmacht an der Sache",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Wahr"
     }
+    
 ]
