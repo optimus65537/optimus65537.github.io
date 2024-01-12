@@ -21,7 +21,6 @@ function showQuestion(data) {
     let questionNo = currentQuestionIndex + 1;
     qLength = data.length;
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
-    console.log(currentQuestion.answers);
 
     currentQuestion.answers.forEach(answer => {
          const button = document.createElement("button");

@@ -5,6 +5,21 @@
         "correct" : "Wahr"
     },
     {
+        "question" : "Bei der Abgabenerhebung hat das Gesetz Folgendes zu umschreiben:",
+        "answers" : ["1. Kreis der Abgabepflichtigen<br /> 2. Gegenstand der Abgabe<br /> 3. Mindestens die Bemessungsgrundlage<br /> 4. Ausnahmen von der Abgabepflicht", "1. Kreis der Abgabepflichtigen<br /> 2. Gegenstand der Abgabe<br /> 3. Mindestens die Bemessungsgrundlage", "1. Gegenstand der Abgabe<br /> 2. Mindestens die Bemessungsgrundlage<br /> 3. Ausnahmen von der Abgabepflicht <br /> 4. Das Gesetz im formellen Sinn", "Nur der Gegenstand der Abgabe ist erheblich"],
+        "correct" : "1. Kreis der Abgabepflichtigen<br /> 2. Gegenstand der Abgabe<br /> 3. Mindestens die Bemessungsgrundlage<br /> 4. Ausnahmen von der Abgabepflicht"
+    },
+    {
+        "question" : "Zu den öffentlichen Sachen i.e.S. gehören:",
+        "answers" : ["Das Finanz- und Verwaltungsvermögen", "Nur die öffentlichen Sachen im Gemeingebrauch", "Regalsachen, Verwaltungsvermögen und öffentliche Sachen im Gemeingebrauch", "Die öffentlichen Sachen i.w.S."],
+        "correct" : "Regalsachen, Verwaltungsvermögen und öffentliche Sachen im Gemeingebrauch"
+    },
+    {
+        "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
+        "answers" : ["- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden", "- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
+        "correct" : "- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden"
+    },
+    {
         "question" : "In wie vielen Grundarten können öffentliche Geldleistungen unterteilt werden?",
         "answers" : ["6", "2", "4", "5"],
         "correct" : "4"
@@ -105,14 +120,143 @@
         "correct" : "Falsch"
     },
     {
-        "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
-        "answers" : ["(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden", "(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
-        "correct" : "(i) Verwaltungsrechtsschutz ist Primärschutz (ii) Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden (iii) Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden"
-    },
-    {
         "question" : "Die öffentliche Sache ist ein sachliches Mittel, welches das Gemeinwesen zur Erfüllung seiner Aufgaben braucht. Der Staat besitzt bei öffentlichen Sachen über die Verfügungsmacht an der Sache",
         "answers" : ["Wahr", "Falsch"],
         "correct" : "Wahr"
+    },
+    {
+        "question" : "Für die Beurteilung, ob es sich um eine öffentliche Sache handelt, ist regelmässig Entscheidend:",
+        "answers" : ["Dass das Gemeinwesen Eigentum an der Sache hat", "Die Sache dient nicht der Erfüllung einer öffentlichen Aufgabe", "Die Zweckbestimmung der Sache und dass das Gemeinwesen darüber eine privat- oder öffentlichrechtliche Verfügungsmacht besitzt", "Die dualistische Theorie"],
+        "correct" : "Die Zweckbestimmung der Sache und dass das Gemeinwesen darüber eine privat- oder öffentlichrechtliche Verfügungsmacht besitzt"
+    },
+    {
+        "question" : "Die öffentlichen Sachen gehören unter die Hoheit desjenigen Gemeinwesens, in dessen Gebiet sie sich befinden.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Was versteht man unter der dualistischen Theorie?",
+        "answers" : ["Das für öffentliche Sachen geltende Sonderrecht verdrängt das Privatrecht vollständig", "Diese hat sich nur in den Gemeinden durchgesetzt", "Die öffentliche Sachherrschaft tritt nicht an die Stelle der privaten Sachenrechtsordnung, sondern überlagert diese lediglich", "Die monistische Theorie gilt subsidiär"],
+        "correct" : "Die öffentliche Sachherrschaft tritt nicht an die Stelle der privaten Sachenrechtsordnung, sondern überlagert diese lediglich"
+    },
+    {
+        "question" : "Das Finanzvermögen muss nicht zwingend im Eigentum des Gemeinwesens liegen.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Flasch"
+    },
+    {
+        "question" : "Das Finanzvermögen einer Gemeinde kann nicht gepfändet werden, auch im Aussenverhältnis gilt öffentliches Recht.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Was gilt, wenn die Sache sowohl unmittelbar einer staatlichen Aufgabe dient und gleichzeitig einen Ertrag sichert?",
+        "answers" : ["Die Sache fällt diesfalls unters Finanzvermögen", "Die sache ist keine öffentliche Sache mehr", "Die Sache fällt diesfalls unters Verwaltungsvermögen", "Die Sache ist dann gemeinverträglich"],
+        "correct" : "Die Sache fällt diesfalls unters Verwaltungsvermögen"
+    },
+    {
+        "question" : "Das Verwaltungsvermögen ist nicht Zweckgebunden.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Das Verwaltungsvermögen kann zusätzlich unterteilt werden in:",
+        "answers" : ["Verwaltungssachen und Anstaltssachen (Betriebssachen)", "Monopole", "Öffentlichen Sachen im Gemeingebrauch", "Finanzvermögen"],
+        "correct" : "Verwaltungssachen und Anstaltssachen (Betriebssachen)"
+    },
+    {
+        "question" : "Wie unterscheiden sich Finanz- und Verwaltungsvermögen?",
+        "answers" : ["Das Finanzvermögen dient unmittelbar der Erfüllung öffentlicher Aufgaben", "Verwaltungsvermögen stehen der Allgemeinheit zur Verfügung", "Eine Unterscheidung ist nicht wichtig", "Das Verwaltungsvermögen dient, durch seinen Gebrauchswert, unmittelbar der Erfüllung von öffentlichen Aufgaben"],
+        "correct" : "Das Verwaltungsvermögen dient, durch seinen Gebrauchswert, unmittelbar der Erfüllung von öffentlichen Aufgaben"
+    },
+    {
+        "question" : "Die Zweckbestimmung einer öffentlichen Sache im Gemeingebrauch ergibt sich aus:",
+        "answers" : ["Nur aus der Widmung", "Der Widmung oder Tradition oder natürlichen Beschaffenheit", "Eignetumsverhältnisse", "Der Sondernutzung"],
+        "correct" : "Der Widmung oder Tradition oder natürlichen Beschaffenheit"
+    },
+    {
+        "question" : "Wie unterscheiden sich Verwaltungsvermögen und öffentliche Sachen im Gemeingebrauch?",
+        "answers" : ["Das Verwaltungsvermögen ist Zweckgebunden", "Im Gegensatz zum Verwaltungsvermögen stehen die öffentlichen Sachen im Gemeingebrauch der Allgemeinheit zur Verfügung", "Durch die Sondernutzung", "Die Nutzungsintensität ist entscheidend"],
+        "correct" : "Das Verwaltungsvermögen dient, durch seinen Gebrauchswert, unmittelbar der Erfüllung von öffentlichen Aufgaben"
+    },
+    {
+        "question" : "Welcher Anspruch ensteht, wenn die vorgesehene Nutzung von Verwaltungsvermögen mit der Zweckbestimmung der betreffenden Verwaltungs- bzw. Anstaltssache vereinbar ist und keine gleichwertige Alternative zur Verfügung steht?",
+        "answers" : ["Ein unbedingter Anspruch auf Sondernutzung", "Ein bedingter Anspruch auf ordentliche Nutzung", "Es ensteht kein Anspruch","Ein bedingter Anspruch auf die Randnutzung/ausserordentliche Nutzung von Verwaltungsvermögen", "Die Nutzungsintensität ist entscheidend"],
+        "correct" : "Ein bedingter Anspruch auf die Randnutzung/ausserordentliche Nutzung von Verwaltungsvermögen"
+    },
+    {
+        "question" : "Um welche Art von Nutzung handelt es sich, wenn eine Turnhalle für nicht-schulische Anlässe benutzt wird?",
+        "answers" : ["Gemeingebrauch von Finanzvermögen", "Sondernutzung von Verwaltungsvermögen", "Randnutzung/ausserordentliche Nutzung von Verwaltungsvermögen", "Ordentliche Nutzung von Finanzvermögen"],
+        "correct" : "Randnutzung/ausserordentliche Nutzung von Verwaltungsvermögen"
+    },
+    {
+        "question" : "Bücher der Kantonsbibliothek X sind:",
+        "answers" : ["Verwaltungssachen", "Finanzvermögen", "Öffentliche Sachen im Gemeingebrauch", "Anstaltssachen"],
+        "correct" : "Anstaltssachen"
+    },
+    {
+        "question" : "Gebühren, Ersatzabgaben, Beiträge (Vorzugslasten) und Mehrwertabgaben sind:",
+        "answers" : ["Steuern", "Kausalabgaben", "Gemengsteuern", "Lenkungsabgaben"],
+        "correct" : "Kausalabgaben"
+    },
+    {
+        "question" : "Gebühren sollen die Kosten des Gemeinwesens für Amtshandlungen oder für die Benutzung von Einrichtungen ganz oder teilweise abdecken.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Um welche Art von Kausalabgabe handelt es sich, wenn ein Privater aus der Erstellung einer Kanalisation einen Sondervorteil erfährt?",
+        "answers" : ["Beitrag/Vorzugslast", "Gemengsteuern", "Benutzungsgebühr", "Kontrollgebühr", "Ersatzleistung"],
+        "correct" : "Beitrag/Vorzugslast"
+    },
+    {
+        "question" : "Kausalabgaben sind voraussetzungslos geschuldete Abgaben",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Die Einkommenssteuer ist eine:",
+        "answers" : ["Sondersteuer", "Gemengsteuer", "Hauptsteuer", "Ersatzabgabe", "Kanzleigebühr"],
+        "correct" : "Hauptsteuer"
+    },
+    {
+        "question" : "Die Steuerpflicht erfordet eine bestimmte gesetzliche Grundlage.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Die Erfordernisse der generell-abstrakten Struktur und der genügenden Bestimtheit bezeichnet man als:",
+        "answers": ["Erfordernis der Gesetzesform", "Erfordernis der Legislative", "Erfordernis des Rechtssatzes", "Auslegung"],
+        "correct" : "Erfordernis des Rechtssatzes"
+    },
+    {
+        "question" : "Das Erfordernis der genügenden Normstufe wird auch als Erfordernis der Gesetzesform bezeichnet.",
+        "answers": ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Kanzlei- und Kontrollgebühren sind:",
+        "answers": ["Benutzungsgebühren", "Verwaltungsgebühren", "Hauptsteuern, das Erfordernis eines Rechtssatzes genügt", "Ersatz- und Mehrwertabgaben"],
+        "correct" : "Verwaltungsgebühren"
+    },
+    {
+        "question" : "Die Gemengsteuer enthält einen Gebührenanteil und einen Steueranteil, dem keine konkrete Gegenleistung des Staates gegenübersteht.",
+        "answers": ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Kausalabgaben lassen sich wie folgt gliedern:",
+        "answers": ["Beiträge (Vorzugslasten), Verwaltungsgebühren, Gebühren und Sondersteuern", "Gebühren, Ersatzabgaben, Beiträge (Vorzugslasten) und Mehrwertabgaben", "Allgemeine Steuern, Lenkungsabgaben, Vorzugslasten und Ersatzgebühren", "Verwaltungsgebühren, Kausalabgaben, Gebühren and Zwecksteuern"],
+        "correct" : "Gebühren, Ersatzabgaben, Beiträge (Vorzugslasten) und Mehrwertabgaben"
+    },
+    {
+        "question" : "Merhwertabgaben sind kostenabhängig:",
+        "answers": ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Bei kostenunabhängigen Kausalabgaben darf die Normdichte bei der Bemessungsgrundlage herabgesetzt sein",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
     }
-    
 ]
