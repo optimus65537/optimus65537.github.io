@@ -1,6 +1,41 @@
 [
     {
+        "question" : "Eine negative Definition der Verwaltung im funktionellen Sinn (auch wenn unvollständig), kann wie folgt umschrieben werden:",
+        "answers": ["Es gibt keine negative Definition der Verwaltung", "Erfüllung von Staatsaufgaben von Amtes wegen und mit hoheitlichen Mitteln", "Eine Staatstätigkeit die nicht Rechtsetzung oder Entscheid über Rechtsstreitigkeiten oder Strafen ist", "Die Verwaltung im organisatorischen Sinn"],
+        "correct" : "Eine Staatstätigkeit die nicht Rechtsetzung oder Entscheid über Rechtsstreitigkeiten oder Strafen ist"
+    },
+    {
+        "question" : "Der Begriff Verwaltungsbehörde umfasst:",
+        "answers" : ["- Sämtliche Träger von Verwaltungsaufgaben<br />- Einheiten der Zentralverwaltung und der örtlich dezentralisierten Verwaltung<br />- Eine typischerweise vom Volk gewählte Milizbehörde", "- Dezentralisierte Verwaltungsträger mit eigener Rechtspersänlichkeit<br />- Öffentlichrechtliche Körperschaften<br />- Juristische Personen des öffentlichen Rechts", "Bund, Kantone, Gemeinden", "Gebietskörperschaften der untersten Staatsebene"],
+        "correct" : "- Sämtliche Träger von Verwaltungsaufgaben<br />- Einheiten der Zentralverwaltung und der örtlich dezentralisierten Verwaltung<br />- Eine typischerweise vom Volk gewählte Milizbehörde"
+    },
+    {
         "question" : "Finanzielle Sozialhilfeleistungen sehen keine Gegenleistung des Empfängers voraus?",
+        "answers": ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Die Erteilung von generellen und einzelfallbezogenen Weisungen folgt aus dem:",
+        "answers": ["Demokratieprinzip", "Öffentlichkeitsprinzip", "Hierarchieprinzip", "Datenschutzgesetz"],
+        "correct" : "Hierarchieprinzip"
+    },
+    {
+        "question" : "Verwaltungsträger ist, wer mit der Erfüllung von Verwaltungsaufgaben betraut ist.",
+        "answers": ["Wahr", "Falsch"],
+        "correct" : "Wahr"
+    },
+    {
+        "question" : "Politische Unabhängigkeit, Föderalismus, fachliche Unabhängigkeit, Bürgernähe und wirtschaftliche Unabhängigkeit, sind gute Gründe für:",
+        "answers": ["Die Leistungsverwaltung", "Eine zentrale Verwaltungsorganisation", "Eine dezentrale Verwaltungsorganisation", "Die Eingriffsverwaltung"],
+        "correct" : "Eine dezentrale Verwaltungsorganisation"
+    },
+    {
+        "question" : "Verwaltungsaufgaben nach Verwaltungszweigen lassen sich wie folgt unterteilen:",
+        "answers": ["Ordnungsaufgaben, Sozialpolitische Aufgaben, Lenkungsaufgaben, Infrastrukturaufgaben", "Ordnungsaufgaben, Staatsaufgaben, Lenkungsaufgaben, Leistungsverwaltung", "Gemischte Form, Eingriffsverwaltung, Ordnungsaufgaben, Infrastrukturaufgaben", "Ordnungsaufgaben, Subventionen, Infrastrukturaufgaben, Lenkungsaufgaben"],
+        "correct" : "Ordnungsaufgaben, Sozialpolitische Aufgaben, Lenkungsaufgaben, Infrastrukturaufgaben"
+    },
+    {
+        "question" : "Eine staatliche Dezentralisation (Dekonzentration) besteht, wenn die Erfüllung einer staatlichen Aufgabe einer Verwaltungseinheit ausserhalb der Zentralverwaltung übertragen ist (z.B. Stromverteilung über Swissgrid AG",
         "answers": ["Wahr", "Falsch"],
         "correct" : "Wahr"
     },
@@ -15,14 +50,29 @@
         "correct" : "Regalsachen, Verwaltungsvermögen und öffentliche Sachen im Gemeingebrauch"
     },
     {
-        "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
-        "answers" : ["- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden", "- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
-        "correct" : "- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden"
+        "question" : "Das Verwaltungsorganisationsrecht umfasst:",
+        "answers" : ["Das Verfahren der Verwaltungs- und Verwaltungsjustizbehörden", "Das Straf- und Zivilprozessrecht", "Die Rechtsnormen die den Aufbau und die Zuständigkeit der Verwaltung im organisatorischen Sinn regeln", "Die Abgrenzung des Verwaltungsrechts vom Privatrecht"],
+        "correct" : "Die Rechtsnormen die den Aufbau und die Zuständigkeit der Verwaltung im organisatorischen Sinn regeln"
     },
     {
-        "question" : "In wie vielen Grundarten können öffentliche Geldleistungen unterteilt werden?",
-        "answers" : ["6", "2", "4", "5"],
-        "correct" : "4"
+        "question" : "Wie unterscheiden sich selbstständige und unselbständige öffentlichrechtliche Anstalten?",
+        "answers" : ["Unselbständige öffentlichrechtliche Anstalten sind Träger von Rechten und Pflichten", "Selbständige öffentlichrechtliche Anstalten haben Mitglieder", "Das Vorhanden der Rechtspersönlichkeit ist ausschlaggebend: Selbständige öffentlichrechtliche Anstalten sind juristiche Personen", "Es gibt kein Unterschied" ],
+        "correct" : "Das Vorhanden der Rechtspersönlichkeit ist ausschlaggebend: Selbständige öffentlichrechtliche Anstalten sind juristiche Personen"
+    },
+    {
+        "question" : "Natürliche und juristiche Personen können nicht Träger von Verwaltungsaufgaben sein.",
+        "answers" : ["Wahr", "Falsch"],
+        "correct" : "Falsch"
+    },
+    {
+        "question" : "Öffentlichrechtliche Anstalten, öffentlichrechtliche Stiftungen, öffentliche Unternehmen in Privatrechtsform, gemischtwirtschaftliche Unternehmen sind:",
+        "answers" : ["Organisationsformen der zentralen Verwaltungsorganisation", "Dezentrale öffentlichrechtliche Körperschaften", "Organisationsformen der dezentralen Verwaltungsorganisation", "Diese sind alle Gewinnorientiert"],
+        "correct" : "Organisationsformen der dezentralen Verwaltungsorganisation"
+    },
+    {
+        "question" : "Charakteristisch für das gemischtwirtschaftliche Unternehmen ist:",
+        "answers" : ["Dass dich der Staat einer privatrechtlichen Organisationsform bedient", "Der Verfügungsbefugins", "Seine doppelte Zweckbestimmung", "Dass es kulturellen oder sozialen Zwecken dient"],
+        "correct" : "Seine doppelte Zweckbestimmung"
     },
     {
         "question" : "Um welche Art von öffentlicher Geldleistung handelt es sich, wenn der Staat 100 Computer erwirbt und dafür den Kaufpreis bezahlt?",
@@ -43,6 +93,11 @@
         "question" : "Bei der formellen Enteignung kann der Enteigner die Entschädigung auch später (nach der Enteignung) leisten?",
         "answers" : ["Wahr", "Falsch"],
         "correct" : "Falsch"
+    },
+    {
+        "question" : "Zentralisation ist:",
+        "answers" : ["Eine aus der Zentralverwaltung ausgegliederte Verwaltungseinheit", "Eine örtliche Dezentralisation", "Die Bündelung von Trägern der Verwaltungsaufgaben zu einem in sich geschlossenen, hierarchisch durchstrikturierten Gefüge von Verwaltungseinheiten" ,"Die sachliche Dezentralisation"],
+        "correct" : "Die Bündelung von Trägern der Verwaltungsaufgaben zu einem in sich geschlossenen, hierarchisch durchstrikturierten Gefüge von Verwaltungseinheiten"
     },
     {
         "question" : "Polizeilich motivierte Eigentumsbeschränkungen sind grundsätzlich Entschädigungslos?",
@@ -258,5 +313,10 @@
         "question" : "Bei kostenunabhängigen Kausalabgaben darf die Normdichte bei der Bemessungsgrundlage herabgesetzt sein",
         "answers" : ["Wahr", "Falsch"],
         "correct" : "Falsch"
+    },
+    {
+        "question" : "Das Prinzip des einmaligen Rechtsschutzes besagt folgendes:",
+        "answers" : ["- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen können in einem späteren Staatshaftungsverfahren nachgeholt werden", "- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden", "Der Staat soll für widerrechtliche Handlungen seiner Angestellten verantwortlich sein", "Verfahrensbeteiligte haben die Möglichkeit die Verfügung anzufechten"],
+        "correct" : "- Verwaltungsrechtsschutz ist Primärschutz<br /> - Eine formell rechtskräftige Verfügung darf im Staatshaftungsverfahren nicht vorfragweise geprüft werden<br /> - Versäumte Rechtshandlungen dürfen nicht in einem späteren Staatshaftungsverfahren nachgeholt werden"
     }
 ]
