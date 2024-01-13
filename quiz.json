@@ -6,7 +6,7 @@
     },
     {
         "question" : "Der Begriff Verwaltungsbehörde umfasst:",
-        "answers" : ["- Sämtliche Träger von Verwaltungsaufgaben<br />- Einheiten der Zentralverwaltung und der örtlich dezentralisierten Verwaltung<br />- Eine typischerweise vom Volk gewählte Milizbehörde", "- Dezentralisierte Verwaltungsträger mit eigener Rechtspersänlichkeit<br />- Öffentlichrechtliche Körperschaften<br />- Juristische Personen des öffentlichen Rechts", "Bund, Kantone, Gemeinden", "Gebietskörperschaften der untersten Staatsebene"],
+        "answers" : ["- Dezentralisierte Verwaltungsträger mit eigener Rechtspersänlichkeit<br />- Öffentlichrechtliche Körperschaften<br />- Juristische Personen des öffentlichen Rechts", "- Sämtliche Träger von Verwaltungsaufgaben<br />- Einheiten der Zentralverwaltung und der örtlich dezentralisierten Verwaltung<br />- Eine typischerweise vom Volk gewählte Milizbehörde", "Bund, Kantone, Gemeinden", "Gebietskörperschaften der untersten Staatsebene"],
         "correct" : "- Sämtliche Träger von Verwaltungsaufgaben<br />- Einheiten der Zentralverwaltung und der örtlich dezentralisierten Verwaltung<br />- Eine typischerweise vom Volk gewählte Milizbehörde"
     },
     {
@@ -30,7 +30,7 @@
         "correct" : "Eine dezentrale Verwaltungsorganisation"
     },
     {
-        "question" : "Verwaltungsaufgaben nach Verwaltungszweigen lassen sich wie folgt unterteilen:",
+        "question" : "Verwaltungsaufgaben nach Verwaltungszweigen lassen sich wie folgt unterteilen, in:",
         "answers": ["Ordnungsaufgaben, Sozialpolitische Aufgaben, Lenkungsaufgaben, Infrastrukturaufgaben", "Ordnungsaufgaben, Staatsaufgaben, Lenkungsaufgaben, Leistungsverwaltung", "Gemischte Form, Eingriffsverwaltung, Ordnungsaufgaben, Infrastrukturaufgaben", "Ordnungsaufgaben, Subventionen, Infrastrukturaufgaben, Lenkungsaufgaben"],
         "correct" : "Ordnungsaufgaben, Sozialpolitische Aufgaben, Lenkungsaufgaben, Infrastrukturaufgaben"
     },
